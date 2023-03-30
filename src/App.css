@@ -20,7 +20,7 @@
 .container.highlight-events {
   border-radius: 10px;
   box-shadow: 0 0 14px 4px rgba(0, 0, 0, .25);
-  padding: 30px;
+  padding: 30px 10px;
   background-color: white;
   color: rgba(0, 0, 0, 0.8);
 }
@@ -38,7 +38,7 @@
 
 .highlights article {
   flex-grow: 1;
-  padding: 0 30px;
+  padding: 0 10px;
 }
 
 .program span {
@@ -59,9 +59,10 @@
   border-radius: 20px;
   color: #fff;
   display: block;
+  margin: 0 auto;
   padding: 5px;
   text-align: center;
-  width: 100%;
+  /* width: 100%; */
 }
 
 .banner {

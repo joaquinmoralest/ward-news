@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div className='hero'>
-        <h1>Barrio Las avenidas</h1>
+        <h1>Barrio <br />Las avenidas</h1>
       </div>
 
       <section className='welcome'>
