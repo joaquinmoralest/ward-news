@@ -23,7 +23,7 @@ function Highlight() {
               <p><span>Interludio:</span> "Mandó a su hijo" (Por el Coro)</p>
               <p><span>Oradores:</span> Hno. Jean Paz, Hno. Daniel Corrales, Obispo Antonio Macias</p>
               <p><span>Himno Final:</span> N°69, “¿Dónde hallo el solaz?“ (Por la Congregación)</p>
-              <p><span>Oración Final:</span> Hno. Luis Quilobran</p>
+              <p><span>Oración Final:</span> Hno. Cesar Escobar</p>
             </div>
             <span className={styles.reminder}>Este día no habrá clases dominicales</span>
           </article>
