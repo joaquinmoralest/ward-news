@@ -1,0 +1,10 @@
+.container {
+  width: 100%;
+  max-width: 800px;
+  padding: 0 20px;
+}
+
+.welcome {
+  font-size: 18px;
+  text-align: center;
+}

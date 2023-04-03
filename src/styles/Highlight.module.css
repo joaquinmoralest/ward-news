@@ -1,0 +1,38 @@
+.highlightEvents {
+  border-radius: 10px;
+  box-shadow: 0 0 14px 4px rgba(0, 0, 0, .25);
+  padding: 30px 10px;
+  background-color: white;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.highlightEvents h2 {
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.highlights article {
+  padding: 0 10px;
+}
+
+.program span {
+  font-weight: 700;
+}
+
+.highlights article .reminder {
+  background-color: #501d6a;
+  border-radius: 20px;
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+  padding: 5px;
+  text-align: center;
+  /* width: 100%; */
+}
+
+@media screen and (max-width: 780px) {
+  .highlights {
+    display: flex;
+    flex-direction: column;
+  }
+}
