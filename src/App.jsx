@@ -1,5 +1,6 @@
 import Hero from './components/Hero'
 import Highlight from './components/Highlight'
+import Week from './components/Week'
 import Welcome from './components/Welcome'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Welcome />
       <main>
         <Highlight />
+        <Week />
         <section>
           <div className='container'>
             <h2>Anuncios</h2>
