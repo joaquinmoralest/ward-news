@@ -3,8 +3,8 @@ import styles from '../styles/Highlight.module.css'
 function Highlight() {
   return (
     <section>
-      <div className={`container ${styles.highlightEvents}`}>
-        <h2>Evento destacado</h2>
+      <div className='container'>
+        <h2 className={styles.title}>Evento destacado</h2>
         <div className={styles.highlights}>
           <article>
             <h3>Reunión Sacramental Especial</h3>
@@ -16,7 +16,7 @@ function Highlight() {
               <p><span>Dirige:</span> Hno. Daniel Corrales</p>
               <p><span>Dirección musical:</span> Hna. Gloria Gómez</p>
               <p><span>Dirección coral:</span> Hna. Carla Vielma</p>
-              <p><span>Pianista:</span> Anthony Macias</p>
+              <p><span>Pianista:</span> Hno. Anthony Macias</p>
               <p><span>Himno inicial:</span> N°73, "Yo sé que vive mi Señor" (Por la congregación)</p>
               <p><span>Oración inicial:</span> Hna. Luz Aguirre</p>
               <p><span>Himno Sacramental:</span> N°116, “Jesús, en la corte celestial” (Por la Congregación)</p>
